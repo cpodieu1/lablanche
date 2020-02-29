@@ -1,1 +1,3 @@
-# lablanche
+# maven-project
+
+Simple Maven Project
